@@ -1,37 +1,57 @@
-<h1 data-importer="text" align="center">Hey Cuties<3</h1>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0026,50:24005c,100:000000&text=SHEBANTI%20HALDAR&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20BUILDER%20%7C%20EXPLORER&descAlignY=62&descSize=15&animation=twinkling" />
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE+%E2%9C%93;SOFTWARE+ENGINEERING+STUDENT;FULL-STACK+DEVELOPER;AI%2FML+EXPLORER;GAME+DEV+%2B+REVERSE+ENGINEERING;BUILDING+WEIRD+THINGS+SINCE+FOREVER" />
+
+<br><br>
+
+<a href="https://github.com/Maxxed-0ut">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/shebanti-haldar-20b5a1314/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Maxxed-0ut&style=for-the-badge&color=8b5cf6&label=SYSTEM+VISITS" />
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+<div align="center">
 
-###
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   > INITIALIZING USER PROFILE...                                ║
+║   > LOADING SKILLS................. [████████████] 100%          ║
+║   > LOADING PROJECTS............... [████████████] 100%          ║
+║   > LOADING SLEEP SCHEDULE........ [██░░░░░░░░░░]  17%          ║
+║   > COFFEE LEVEL................... [████████████] 100%          ║
+║                                                                  ║
+║   STATUS: ONLINE                                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+identity:
+  role: "Software Engineering Student"
+
+  focus:
+    - Full-Stack Development
+    - Artificial Intelligence
+    - Machine Learning
+    - Game Development
+    - Reverse Engineering
+
+  current_mode: "BUILDING"
+
+  philosophy:
+    - "Understand how it works."
+    - "Break it."
+    - "Fix it."
+    - "Make it better."
